@@ -1,5 +1,7 @@
 # Jekyll Portfolio Website
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kosirm/dreambox-datocms-jekyll.svg)](https://greenkeeper.io/)
+
 This repo contains a working static website written with [Jekyll](https://jekyllrb.com), integrated with content coming from a [DatoCMS](https://www.datocms.com) administrative area.
 
 ## Usage
